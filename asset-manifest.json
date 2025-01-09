@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.b2cc3d3a.js",
-    "index.html": "/index.html",
-    "main.b2cc3d3a.js.map": "/static/js/main.b2cc3d3a.js.map"
+    "main.js": "/bookingui/static/js/main.b2cc3d3a.js",
+    "index.html": "/bookingui/index.html",
+    "main.b2cc3d3a.js.map": "/bookingui/static/js/main.b2cc3d3a.js.map"
   },
   "entrypoints": [
     "static/js/main.b2cc3d3a.js"
